@@ -14,6 +14,7 @@
 <body id="home">
 
     <h1>Hack day test</h1>
+    <h2>Laura H</h2>
 
 
 	<?php include 'components/form.php' ?>
